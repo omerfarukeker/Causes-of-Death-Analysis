@@ -84,3 +84,26 @@ It is obvious that Cardiovascular Disease dominate death toll all over the world
 <p align="center">
   <img src="https://github.com/omerfarukeker/Causes-of-Death-Analysis/blob/master/Causes%20of%20Death%20Graphs/11.PNG">
 </p>
+
+Let's now group the diseases by their historical increasing or decreasing trends. Calculations will be based on deaths per 100000 for particular disease.
+
+Following diseases show monotonic decrease trend over years:
+
+* Even though Digestive and Respiratory diseases were dropping constantly for period of time, they started to enter an increasing trend since 2013. Still way better as compared to 90s
+* Suicide rates are dropping since mid-90s
+* Peak in the Heat graph could be a mistake in the dataset or it is a very distinguishing event happened in 2010 which caused this sudden jump
+
+<p align="center">
+  <img src="https://github.com/omerfarukeker/Causes-of-Death-Analysis/blob/master/Causes%20of%20Death%20Graphs/12.png">
+</p>
+
+Following are the death causes exhibiting an increasing or no trend over time:
+
+* Dementia, Kidney, Cancer, Parkinson, and Diabetes diseases have been increasing since the beginning of our data span (1990)
+* Drug and alcohol use disorders are correlated with Liver disease trend
+* HIV/AIDS related deaths rate started to decline since 2005
+* Natural disasters show no trend as expected
+
+<p align="center">
+  <img src="https://github.com/omerfarukeker/Causes-of-Death-Analysis/blob/master/Causes%20of%20Death%20Graphs/13.png">
+</p>
