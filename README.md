@@ -6,7 +6,7 @@ https://ourworldindata.org/causes-of-death
 The dataset consists of 34 different cause of death counts by country per year. It covers the years from 1990 to 2017. 
 
 Let's start exploring the dataset. Visualise top 10 causes of death for Turkey in the latest available year, 2017:
-![](https://github.com/omerfarukeker/Causes-of-Death-Analysis/blob/master/Causes%20of%20Death%20Graphs/1.png)
+<img align="center" src="https://github.com/omerfarukeker/Causes-of-Death-Analysis/blob/master/Causes%20of%20Death%20Graphs/1.png">
 
 Also display their percentage in pie graph:
 * Almost 4 out 10 deaths in Turkey are caused by Cardiovasculare diseases in 2017
